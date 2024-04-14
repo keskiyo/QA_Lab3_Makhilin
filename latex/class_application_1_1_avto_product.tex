@@ -1,0 +1,137 @@
+\doxysection{Application.\+Avto\+Product Class Reference}
+\label{class_application_1_1_avto_product}\index{Application.AvtoProduct@{Application.AvtoProduct}}
+
+
+Класс, представляющий автомобильный продукт, который является расширением класса Product.  
+
+
+
+
+Inheritance diagram for Application.\+Avto\+Product\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=200pt]{class_application_1_1_avto_product__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Application.\+Avto\+Product\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=200pt]{class_application_1_1_avto_product__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\textbf{ Avto\+Product} (String name, double price, int amount, int warranty\+Period)
+\begin{DoxyCompactList}\small\item\em Конструктор для инициализации объекта Avto\+Product. \end{DoxyCompactList}\item 
+int \textbf{ get\+Warranty\+Period} ()
+\begin{DoxyCompactList}\small\item\em Пример формулы. $(x_1,y_1)$. \end{DoxyCompactList}\item 
+void \textbf{ set\+Warranty\+Period} (int warranty\+Period)
+\begin{DoxyCompactList}\small\item\em Метод для установки периода гарантии автомобильного продукта. \end{DoxyCompactList}\item 
+String \textbf{ to\+String} ()
+\begin{DoxyCompactList}\small\item\em Переопределенный метод to\+String для возврата строкового представления объекта Avto\+Product. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Public Member Functions inherited from \textbf{ Application.\+Product}}
+\begin{DoxyCompactItemize}
+\item 
+\textbf{ Product} (String name, double price, int amount)
+\begin{DoxyCompactList}\small\item\em Пример формулы. $(x_1,y_1)$. \end{DoxyCompactList}\item 
+double \textbf{ calculate\+Total} ()
+\begin{DoxyCompactList}\small\item\em Вычисляет общую стоимость продукта на основе его цены и количества. \end{DoxyCompactList}\item 
+String \textbf{ get\+Name} ()
+\begin{DoxyCompactList}\small\item\em Retrieves the name of the product. \end{DoxyCompactList}\item 
+void \textbf{ set\+Name} (String name)
+\begin{DoxyCompactList}\small\item\em Sets the name of the product. \end{DoxyCompactList}\item 
+double \textbf{ get\+Price} ()
+\begin{DoxyCompactList}\small\item\em Retrieves the price of the product. \end{DoxyCompactList}\item 
+void \textbf{ set\+Price} (double price)
+\begin{DoxyCompactList}\small\item\em Sets the price of the product. \end{DoxyCompactList}\item 
+int \textbf{ get\+Amount} ()
+\begin{DoxyCompactList}\small\item\em Retrieves the amount of the product. \end{DoxyCompactList}\item 
+void \textbf{ set\+Amount} (int amount)
+\begin{DoxyCompactList}\small\item\em Sets the amount of the product. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Класс, представляющий автомобильный продукт, который является расширением класса Product. 
+
+ 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\label{class_application_1_1_avto_product_a820664c5243a79c9c9cc64996e4987cb} 
+\index{Application.AvtoProduct@{Application.AvtoProduct}!AvtoProduct@{AvtoProduct}}
+\index{AvtoProduct@{AvtoProduct}!Application.AvtoProduct@{Application.AvtoProduct}}
+\doxysubsubsection{AvtoProduct()}
+{\footnotesize\ttfamily Application.\+Avto\+Product.\+Avto\+Product (\begin{DoxyParamCaption}\item[{String}]{name,  }\item[{double}]{price,  }\item[{int}]{amount,  }\item[{int}]{warranty\+Period }\end{DoxyParamCaption})}
+
+
+
+Конструктор для инициализации объекта Avto\+Product. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & Название продукта. \\
+\hline
+{\em price} & Цена продукта. \\
+\hline
+{\em amount} & Количество продукта. \\
+\hline
+{\em warranty\+Period} & Период гарантии продукта в месяцах. \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\label{class_application_1_1_avto_product_adc2ff71806284ea29b8427d09b64be5d} 
+\index{Application.AvtoProduct@{Application.AvtoProduct}!getWarrantyPeriod@{getWarrantyPeriod}}
+\index{getWarrantyPeriod@{getWarrantyPeriod}!Application.AvtoProduct@{Application.AvtoProduct}}
+\doxysubsubsection{getWarrantyPeriod()}
+{\footnotesize\ttfamily int Application.\+Avto\+Product.\+get\+Warranty\+Period (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Пример формулы. $(x_1,y_1)$. 
+
+Метод для получения периода гарантии автомобильного продукта. \begin{DoxyReturn}{Returns}
+Период гарантии в месяцах. 
+\end{DoxyReturn}
+\label{class_application_1_1_avto_product_a6d3094621dff6e80b2905ddd12f95c5c} 
+\index{Application.AvtoProduct@{Application.AvtoProduct}!setWarrantyPeriod@{setWarrantyPeriod}}
+\index{setWarrantyPeriod@{setWarrantyPeriod}!Application.AvtoProduct@{Application.AvtoProduct}}
+\doxysubsubsection{setWarrantyPeriod()}
+{\footnotesize\ttfamily void Application.\+Avto\+Product.\+set\+Warranty\+Period (\begin{DoxyParamCaption}\item[{int}]{warranty\+Period }\end{DoxyParamCaption})}
+
+
+
+Метод для установки периода гарантии автомобильного продукта. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em warranty\+Period} & Новый период гарантии в месяцах. \\
+\hline
+\end{DoxyParams}
+\label{class_application_1_1_avto_product_a1553b0e5e2fb6495ce688bd319af3d21} 
+\index{Application.AvtoProduct@{Application.AvtoProduct}!toString@{toString}}
+\index{toString@{toString}!Application.AvtoProduct@{Application.AvtoProduct}}
+\doxysubsubsection{toString()}
+{\footnotesize\ttfamily String Application.\+Avto\+Product.\+to\+String (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Переопределенный метод to\+String для возврата строкового представления объекта Avto\+Product. 
+
+\begin{DoxyReturn}{Returns}
+Строковое представление объекта Avto\+Product. 
+\end{DoxyReturn}
+
+
+Reimplemented from \textbf{ Application.\+Product} \doxyref{}{p.}{class_application_1_1_product_a96556da742dd6e9604227fcb742be8c3}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Application/Avto\+Product.\+java\end{DoxyCompactItemize}
