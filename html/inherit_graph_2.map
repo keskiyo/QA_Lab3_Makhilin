@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_application_1_1_product.html" title="Содержит реализацию продукт класса." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="Node000001" href="$class_application_1_1_avto_product.html" title="Класс, представляющий автомобильный продукт, который является расширением класса Product." alt="" coords="188,5,348,32"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="155,31,187,26,188,32,156,36"/>
+<area shape="rect" id="Node000002" href="$class_application_1_1_velo_product.html" title="Класс, представляющий велосипедный продукт, который является расширением класса Product." alt="" coords="188,56,348,83"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="156,52,187,56,187,62,155,57"/>
+</map>

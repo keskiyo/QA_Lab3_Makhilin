@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Application"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AvtoProduct"><param name="Local" value="class_application_1_1_avto_product.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AvtoProduct"><param name="Local" value="class_application_1_1_avto_product.html#a820664c5243a79c9c9cc64996e4987cb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getWarrantyPeriod"><param name="Local" value="class_application_1_1_avto_product.html#adc2ff71806284ea29b8427d09b64be5d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setWarrantyPeriod"><param name="Local" value="class_application_1_1_avto_product.html#a6d3094621dff6e80b2905ddd12f95c5c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="toString"><param name="Local" value="class_application_1_1_avto_product.html#a1553b0e5e2fb6495ce688bd319af3d21"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Cart"><param name="Local" value="class_application_1_1_cart.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Cart"><param name="Local" value="class_application_1_1_cart.html#a74b77ac969db7188616860450cdffac7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="addProduct"><param name="Local" value="class_application_1_1_cart.html#a728e306e89a92a6400712f91fa14edee"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="calculateTotalCost"><param name="Local" value="class_application_1_1_cart.html#a738caf5aa766cf609090a4bf8dbe96a5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="removeProduct"><param name="Local" value="class_application_1_1_cart.html#a9961d5e25f0bb39edbdedf765d4fea3a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="toString"><param name="Local" value="class_application_1_1_cart.html#acd2123d9b67ce345fd12d204d1aa7e10"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Main"><param name="Local" value="class_application_1_1_main.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Product"><param name="Local" value="class_application_1_1_product.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Product"><param name="Local" value="class_application_1_1_product.html#a160f911fae1c0a4931611ff0eb54a7c5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="calculateTotal"><param name="Local" value="class_application_1_1_product.html#a56256ec188bff04249ca638a4040a22a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getAmount"><param name="Local" value="class_application_1_1_product.html#acf94b99e4838dae62a1f52b3191cb3a7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getName"><param name="Local" value="class_application_1_1_product.html#a1c72a84da1509a122236e6231764c2a1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getPrice"><param name="Local" value="class_application_1_1_product.html#aa894f0369ee32d9ce59d13737b120312"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setAmount"><param name="Local" value="class_application_1_1_product.html#aa7ab661397445ca947a064357593286f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setName"><param name="Local" value="class_application_1_1_product.html#a3778ed075974816d6b447adb7d0eed18"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setPrice"><param name="Local" value="class_application_1_1_product.html#aa2fc66b56425ce96ecfd2e6b482c6fb5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="toString"><param name="Local" value="class_application_1_1_product.html#a96556da742dd6e9604227fcb742be8c3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="VeloProduct"><param name="Local" value="class_application_1_1_velo_product.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="VeloProduct"><param name="Local" value="class_application_1_1_velo_product.html#a7391762f1add460eca77ee955c9249b9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getBrand"><param name="Local" value="class_application_1_1_velo_product.html#ab6603d39209e088cd22be9fc25cf099e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setBrand"><param name="Local" value="class_application_1_1_velo_product.html#aab36c56364e279ee5abc6ed93ef66139"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="toString"><param name="Local" value="class_application_1_1_velo_product.html#a3dd7fbfa26c162df81837a90337e4a4a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Application.Cart"><param name="Local" value="class_application_1_1_cart.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Application.Main"><param name="Local" value="class_application_1_1_main.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Application.Product"><param name="Local" value="class_application_1_1_product.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Application.AvtoProduct"><param name="Local" value="class_application_1_1_avto_product.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Application.VeloProduct"><param name="Local" value="class_application_1_1_velo_product.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

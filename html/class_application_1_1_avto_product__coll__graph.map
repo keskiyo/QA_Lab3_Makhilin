@@ -1,0 +1,5 @@
+<map id="Application.AvtoProduct" name="Application.AvtoProduct">
+<area shape="rect" id="Node000001" title="Класс, представляющий автомобильный продукт, который является расширением класса Product." alt="" coords="5,80,165,107"/>
+<area shape="rect" id="Node000002" href="$class_application_1_1_product.html" title="Содержит реализацию продукт класса." alt="" coords="18,5,152,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,48,88,80,82,80,82,48"/>
+</map>

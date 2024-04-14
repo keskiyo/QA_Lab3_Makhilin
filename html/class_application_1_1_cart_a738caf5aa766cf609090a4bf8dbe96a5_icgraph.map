@@ -1,0 +1,5 @@
+<map id="Application.Cart.calculateTotalCost" name="Application.Cart.calculateTotalCost">
+<area shape="rect" id="Node000001" title="Calculates the total cost of all products in the cart." alt="" coords="216,5,385,48"/>
+<area shape="rect" id="Node000002" href="$class_application_1_1_cart.html#acd2123d9b67ce345fd12d204d1aa7e10" title="Converts the cart to a string representation." alt="" coords="5,13,168,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,29,168,29,168,24,200,24"/>
+</map>
